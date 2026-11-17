@@ -1,4 +1,4 @@
-# claude-project-skeleton
+# Claude Project Skeleton
 
 A project template for [Claude Code](https://claude.com/claude-code) that keeps sessions short and cheap. Each
 session does one task, starts from a small brief and hands off to the next session through files instead of a
